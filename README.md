@@ -1,4 +1,4 @@
-# Developer Horoscope Generator 🪐
+# Developer Horoscope Generator 
 
 This is a small, playful static-analysis tool that reads a Python file and generates a "developer horoscope" based on simple code metrics.
 
