@@ -5,7 +5,7 @@ from pathlib import Path
 
 def analyze_code(path: Path) -> dict:
     """
-    Analyze a Python file and return simple metrics about its structure.
+    Analyze a Python file and return simple metrics about structure.
     """
     source = path.read_text(encoding="utf-8")
 
