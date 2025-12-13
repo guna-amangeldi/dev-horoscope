@@ -1,6 +1,5 @@
-# Sample code for the developer horoscope
+# Sample code 
 
-# TODO: improve this script later
 
 def add(a, b):
     return a + b
